@@ -1,4 +1,4 @@
 interface:
-  display_name: "Allegro API"
-  short_description: "Integrate Allegro REST API with secure Device Flow"
-  default_prompt: "Use $allegro-api to design or implement an Allegro REST API integration with Device Flow."
+  display_name: "Allegro API Skill"
+  short_description: "Allegro Device Flow integration skill"
+  default_prompt: "Use $allegro-api-skill to design or implement an Allegro REST API integration with Device Flow."

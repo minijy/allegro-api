@@ -1,5 +1,5 @@
 ---
-name: allegro-api
+name: allegro-api-skill
 description: Integrate, review, or troubleshoot Allegro REST API applications that authorize seller accounts with OAuth 2.0 Device Flow. Use for Allegro application registration, scopes, token rotation, offers, products, orders, payments, billing, shipments, returns, disputes, messages, event journals, sandbox testing, or API synchronization. Do not route Amazon, advertising-platform, or storefront scraping work here.
 ---
 
